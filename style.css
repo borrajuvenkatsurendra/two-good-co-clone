@@ -601,6 +601,7 @@ hr{
     
     #page1 h1{
         font-size: 15vw;
+        letter-spacing: 5px;
     }
     #video-container{
         margin: 3vw 0 0 0;

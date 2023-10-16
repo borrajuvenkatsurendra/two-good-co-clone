@@ -6,6 +6,7 @@ function locomotiveAnimation() {
     const locoScroll = new LocomotiveScroll({
       el: document.querySelector("#main"),
       smooth: true,
+      multiplier:1.2,
       mobile:{
         smooth:true
       }
